@@ -8,7 +8,6 @@ def self.count
   end
 end
 
-end
 
 class Artist
   extend Memorable
