@@ -6,9 +6,9 @@ module Paramable
 end
 
 class Song
-  extend Paramable
+  include Paramable
 end
 
 class Artist
-  extend Paramable
+  include Paramable
 end
